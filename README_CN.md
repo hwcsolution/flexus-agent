@@ -1,4 +1,4 @@
-# Dify 工作流技能集合
+# Flexus Agent 技能集合
 
 [English README](README.md)
 

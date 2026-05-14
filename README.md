@@ -1,4 +1,4 @@
-# Dify Workflow Skills Collection
+# Flexus Agent Skills Collection
 
 [简体中文 README](README_CN.md)
 
